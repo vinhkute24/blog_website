@@ -22,7 +22,7 @@ import CreateProfile from './Components/Users/CreateProfile/CreateProfile'
 
 import Spinner from './Containers/Spinner/Spinner';
 import Footer from './Containers/footer/footer'
-import SocialMedia from './Containers/SocialMedia.js/SocialMedia';
+
 
 let logoutTimer;
 
